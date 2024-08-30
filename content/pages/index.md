@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Unleash the Power of AI and Transform Your Business
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >+
       With cutting-edge AI solutions, discover how our technologies can
       streamline your operations, enhance decision-making, and boost your
