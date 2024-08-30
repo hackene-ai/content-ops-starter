@@ -70,7 +70,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: dsfsdfsd
+        tagline: ''
       - title: Time to Market
         subtitle: Speeds Production
         text: >
