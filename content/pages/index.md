@@ -8,9 +8,11 @@ sections:
       text: Unleash the Power of AI and Transform Your Business
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      With cutting-edge AI solutions, discover how our technologies can
+      streamline your operations, enhance decision-making, and boost your
+      production efficiency. Start your journey towards innovation today!
+
     actions:
       - type: Button
         label: Get started
