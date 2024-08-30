@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Unleash the Power of AI and Transform Your Business
       color: text-dark
     subtitle: Increase your reach
     text: >
