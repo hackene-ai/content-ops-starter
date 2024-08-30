@@ -15,7 +15,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Explore Our Services
         url: /
         icon: arrowRight
         iconPosition: right
