@@ -4,56 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unleash the Power of AI and Transform Your Business
-      color: text-dark
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >+
-      ##### With cutting-edge AI solutions, discover how our technologies can
-      streamline your operations, enhance decision-making, and boost your
-      production efficiency. Start your journey towards innovation today!
-
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: фгфдгдфг
-      color: text-neutral
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
-    title:
       type: TitleBlock
       text: Social Media Management
       color: text-dark
