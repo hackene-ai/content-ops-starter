@@ -9,12 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-      With cutting-edge AI solutions, discover how our technologies can
+      ## With cutting-edge AI solutions, discover how our technologies can
       streamline your operations, enhance decision-making, and boost your
       production efficiency. Start your journey towards innovation today!
-
-
-
 
     actions:
       - label: Get started
