@@ -22,8 +22,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: >-
-        /images/hackene_Depict_a_central_CPU_encased_in_a_transparent_chassis_w_03a257ce-7121-41f4-b5c7-c0f08bebcc9b.png
+      url: /images/1234.png
       altText: Fun feature preview
     badge:
       type: Badge
