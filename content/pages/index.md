@@ -22,7 +22,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/23123.png
+      url: /images/ласт.png
       altText: Fun feature preview
     badge:
       type: Badge
