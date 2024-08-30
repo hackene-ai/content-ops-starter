@@ -40,7 +40,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unlock the Full Potential of Your Enterprise
     items:
       - type: FeaturedItem
         title: Return on Investment
