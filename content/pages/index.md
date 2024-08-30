@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ''
+      label: фгфдгдфг
       color: text-primary
       type: Badge
     elementId: ''
