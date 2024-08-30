@@ -40,7 +40,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unlock the Full Potential of Your Enterprise
     items:
       - type: FeaturedItem
         title: Return on Investment
@@ -70,6 +70,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: ''
       - title: Time to Market
         subtitle: Speeds Production
         text: >
@@ -120,7 +121,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
