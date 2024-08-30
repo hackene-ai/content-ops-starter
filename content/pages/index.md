@@ -42,7 +42,7 @@ sections:
       color: text-neutral
       type: Badge
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
