@@ -45,10 +45,9 @@ sections:
       - type: FeaturedItem
         title: Return on Investment
         subtitle: High ROI
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Achieve up to 50% reduction in operational costs and increase your ROI
+          by integrating AI into your business processes.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
