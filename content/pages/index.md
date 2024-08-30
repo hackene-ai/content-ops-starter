@@ -22,7 +22,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/ee.png
+      url: /images/ласт.png
       altText: Fun feature preview
     badge:
       type: Badge
@@ -43,12 +43,11 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Return on Investment
+        subtitle: High ROI
+        text: >
+          Achieve up to 50% reduction in operational costs and increase your ROI
+          by integrating AI into your business processes.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -71,12 +70,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Time to Market
+        subtitle: Speeds Production
+        text: >
+          Accelerate your product development with AI-driven tools, reducing
+          time to market by up to 20%.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -96,12 +94,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Precision & Accuracy
+        subtitle: Enhanced Accuracy
+        text: >
+          Highlight the improved accuracy and reliability of outputs that your
+          AI solutions provide, which is crucial for industries requiring high
+          precision.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -130,7 +128,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
