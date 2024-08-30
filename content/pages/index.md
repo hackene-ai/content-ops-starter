@@ -94,7 +94,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Precision and Accuracy
+      - title: Precision & Accuracy
         subtitle: Enhanced Accuracy
         text: >
           Highlight the improved accuracy and reliability of outputs that your
