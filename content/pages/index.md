@@ -34,6 +34,7 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        flexDirection: row
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
