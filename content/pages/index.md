@@ -17,7 +17,7 @@ sections:
         label: Explore Our Services
         url: /
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
     badge:
       type: Badge
