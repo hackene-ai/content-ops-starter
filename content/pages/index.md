@@ -41,6 +41,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: >-
+        /images/hackene_image_of_a_highly_sophisticated_and_futuristic_AI_inter_c03994ac-f033-4744-bec3-6fd0a7f116c8.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
