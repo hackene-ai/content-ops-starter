@@ -103,7 +103,7 @@ sections:
           AI solutions provide, which is crucial for industries requiring high
           precision.
         image:
-          url: /images/icon3.svg
+          url: /images/goals.gif
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
