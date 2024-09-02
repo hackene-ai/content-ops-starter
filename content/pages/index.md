@@ -22,7 +22,8 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/ласт.png
+      url: >-
+        /images/hackene_image_of_a_futuristic_robot_hand_touching_a_digital_scr_85571c5c-4d13-4d8c-a155-3272a45e2bf7.png
       altText: Fun feature preview
     badge:
       type: Badge
