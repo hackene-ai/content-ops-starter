@@ -22,8 +22,9 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/ласт.png
       altText: Fun feature preview
+      url: >-
+        /images/hackene_image_of_a_futuristic_robot_hand_touching_a_digital_scr.png
     badge:
       type: Badge
       label: ''
@@ -50,7 +51,7 @@ sections:
           by integrating AI into your business processes.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -66,7 +67,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/growth.gif
           styles:
             self:
               borderRadius: x-large
@@ -77,12 +78,12 @@ sections:
           Accelerate your product development with AI-driven tools, reducing
           time to market by up to 20%.
         image:
-          url: /images/icon2.svg
+          url: /images/clock.gif
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -102,12 +103,12 @@ sections:
           AI solutions provide, which is crucial for industries requiring high
           precision.
         image:
-          url: /images/icon3.svg
+          url: /images/goals.gif
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -148,37 +149,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -222,8 +192,8 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: dgdfgdf
+      url: 'https://youtu.be/VJSoiappGO4'
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -258,7 +228,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Unleash the Power of AI and Transform Your Business
       color: text-dark
       styles:
         self:
