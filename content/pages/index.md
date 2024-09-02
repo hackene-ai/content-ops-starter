@@ -228,7 +228,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Unleash the Power of AI and Transform Your Business
       color: text-dark
       styles:
         self:
