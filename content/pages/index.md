@@ -33,6 +33,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
