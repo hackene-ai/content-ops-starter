@@ -78,7 +78,7 @@ sections:
           Accelerate your product development with AI-driven tools, reducing
           time to market by up to 20%.
         image:
-          url: /images/icon2.svg
+          url: /images/clock.gif
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
