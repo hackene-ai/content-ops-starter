@@ -8,12 +8,10 @@ sections:
       text: Unleash the Power of AI and Transform Your Business
       color: text-light
     subtitle: ''
-    text: >+
-      \<div style="text-align: center">With cutting-edge AI solutions, discover
-      how our technologies can streamline your operations, enhance
-      decision-making, and boost your production efficiency. Start your journey
-      towards innovation today!\</div>
-
+    text: >
+      With cutting-edge AI solutions, discover how our technologies can
+      streamline your operations, enhance decision-making, and boost your
+      production efficiency. Start your journey towards innovation today!
     actions:
       - type: Button
         label: Explore Our Services
