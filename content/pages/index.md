@@ -19,11 +19,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-      url: >-
-        /images/hackene_image_of_a_futuristic_robot_hand_touching_a_digital_scr.png
     badge:
       type: Badge
       label: ''
