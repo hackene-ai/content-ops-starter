@@ -9,9 +9,10 @@ sections:
       color: text-light
     subtitle: ''
     text: >+
-      With cutting-edge AI solutions, discover how our technologies can
-      streamline your operations, enhance decision-making, and boost your
-      production efficiency. Start your journey towards innovation today!
+      \<div style="text-align: center">With cutting-edge AI solutions, discover
+      how our technologies can streamline your operations, enhance
+      decision-making, and boost your production efficiency. Start your journey
+      towards innovation today!\</div>
 
     actions:
       - type: Button
